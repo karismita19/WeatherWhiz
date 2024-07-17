@@ -1,9 +1,5 @@
 # WeatherWiz
 
-
 Weather app using HTML, CSS, and JavaScript
-
-![alt text](<Screenshot (146).png>)
-
-## Tutorial
+![Screenshot (146)](https://github.com/user-attachments/assets/34c474d9-e8ea-4504-b0a3-534c9567886d)
 
